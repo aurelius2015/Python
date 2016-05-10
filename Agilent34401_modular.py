@@ -1,3 +1,7 @@
+#Agilent 34401 instrument control program
+#Author: DP (aurelius2015)
+#Date: 2015-08-15
+
 import visa
 import re
 import time
